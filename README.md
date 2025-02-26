@@ -8,9 +8,8 @@ A simple React + Redux application to demonstrate the core concepts of state man
 
 ## Features
 
-- Increment the counter by 1.
-- Decrement the counter by 1.
-- Reset the counter to 0.
+- Increment the counter by 100.
+- Decrement the counter by 100.
 - Demonstrates Redux state management with actions, reducers, and the store.
 - Simple and beginner-friendly example for learning Redux.
 
